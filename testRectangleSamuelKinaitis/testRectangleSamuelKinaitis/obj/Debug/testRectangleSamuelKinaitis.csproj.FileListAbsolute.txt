@@ -1,0 +1,8 @@
+C:\Users\Campi\source\repos\testRectangleSamuelKinaitis\testRectangleSamuelKinaitis\bin\Debug\testRectangleSamuelKinaitis.exe.config
+C:\Users\Campi\source\repos\testRectangleSamuelKinaitis\testRectangleSamuelKinaitis\bin\Debug\testRectangleSamuelKinaitis.exe
+C:\Users\Campi\source\repos\testRectangleSamuelKinaitis\testRectangleSamuelKinaitis\bin\Debug\testRectangleSamuelKinaitis.pdb
+C:\Users\Campi\source\repos\testRectangleSamuelKinaitis\testRectangleSamuelKinaitis\obj\Debug\testRectangleSamuelKinaitis.csproj.AssemblyReference.cache
+C:\Users\Campi\source\repos\testRectangleSamuelKinaitis\testRectangleSamuelKinaitis\obj\Debug\testRectangleSamuelKinaitis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Campi\source\repos\testRectangleSamuelKinaitis\testRectangleSamuelKinaitis\obj\Debug\testRectangleSamuelKinaitis.csproj.CoreCompileInputs.cache
+C:\Users\Campi\source\repos\testRectangleSamuelKinaitis\testRectangleSamuelKinaitis\obj\Debug\testRectangleSamuelKinaitis.exe
+C:\Users\Campi\source\repos\testRectangleSamuelKinaitis\testRectangleSamuelKinaitis\obj\Debug\testRectangleSamuelKinaitis.pdb
